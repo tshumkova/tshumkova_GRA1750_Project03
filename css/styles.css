@@ -1,0 +1,63 @@
+#mainNavigation ul {
+	list-style-type: none;
+	float: center;
+}
+#mainNavigation ul li{
+	display: inline-block;
+	font-size: 2em;
+	font-family: Helvetica;
+	color: white;
+}
+#mainNavigation{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+
+}
+#mainContainer{
+	background-color: black;
+	position: center;
+	margin: 10px 0px;
+	padding: 0;
+
+}
+body{
+	margin: 0;
+	}
+
+.name {
+	color: white;
+	font-family: Helvetica;
+	font-size: 10pt;
+}
+
+#citiz{
+	color: white;
+	position: center;
+	width: 50%;
+	margin-left: 350px;
+}
+
+#krups{
+	color: white;
+	position: center;
+	width: 50%;
+	margin-left: 350px;
+}
+
+#aguila{
+	color: white;
+	position: center;
+	width: 50%;
+	margin-left: 350px;
+}
+
+#zenius{
+	color: white;
+	position: center;
+	width: 50%;
+	margin-left: 350px;
+}
+img [alt]{
+	position: center;
+}
